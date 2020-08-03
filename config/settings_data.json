@@ -57,30 +57,19 @@
       "slideshow": {
         "type": "slideshow",
         "blocks": {
-          "1582031196245": {
+          "1596465367659": {
             "type": "slide",
             "settings": {
-              "image": "shopify:\/\/shop_images\/45C3C3FD-7135-461A-92CE-0816EFC440D4.png",
+              "image": "",
               "image_position": "center center",
-              "title": "American Flag 3x5",
+              "title": "Slide",
               "button_label": "View all products",
-              "button_link": "shopify:\/\/products\/american-flag-3ft-x-5ft-sewn-cotton-online-stores-brand-outdoor-flags-garden-outdoor"
-            }
-          },
-          "1580600567127": {
-            "type": "slide",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/camo.jpg",
-              "image_position": "center center",
-              "title": "Luke outdoors Camo Hat",
-              "button_label": "View all products",
-              "button_link": "https:\/\/www.lukeoutdoors.com\/products\/luke-outdoors-camo-snapback-hat"
+              "button_link": ""
             }
           }
         },
         "block_order": [
-          "1580600567127",
-          "1582031196245"
+          "1596465367659"
         ],
         "settings": {
           "hero_home_height": "small",
