@@ -122,29 +122,15 @@
       "image-content": {
         "type": "image-content",
         "blocks": {
-          "1572989197598": {
-            "type": "image_block",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/BCDE8331-0B2F-4849-B853-FD91F7565590.jpeg"
-            }
-          },
           "1572989278840": {
             "type": "image_block",
             "settings": {
               "image": "shopify:\/\/shop_images\/86195B38-9DFA-4CAD-9722-142308A47DB1.jpeg"
             }
-          },
-          "1580732574023": {
-            "type": "image_block",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/bird_feeder.jpg"
-            }
           }
         },
         "block_order": [
-          "1572989197598",
-          "1572989278840",
-          "1580732574023"
+          "1572989278840"
         ],
         "settings": {
         }
