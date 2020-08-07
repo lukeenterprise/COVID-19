@@ -133,11 +133,18 @@
             "settings": {
               "image": "shopify:\/\/shop_images\/image0_6.jpeg"
             }
+          },
+          "1596818166204": {
+            "type": "image_block",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/amazon-appstore-badge-english-black.png"
+            }
           }
         },
         "block_order": [
           "1572989278840",
-          "1596767433147"
+          "1596767433147",
+          "1596818166204"
         ],
         "settings": {
         }
