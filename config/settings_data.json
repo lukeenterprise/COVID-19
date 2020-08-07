@@ -127,10 +127,17 @@
             "settings": {
               "image": "shopify:\/\/shop_images\/86195B38-9DFA-4CAD-9722-142308A47DB1.jpeg"
             }
+          },
+          "1596767433147": {
+            "type": "image_block",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/image0_6.jpeg"
+            }
           }
         },
         "block_order": [
-          "1572989278840"
+          "1572989278840",
+          "1596767433147"
         ],
         "settings": {
         }
