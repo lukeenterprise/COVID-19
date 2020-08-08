@@ -122,16 +122,16 @@
       "image-content": {
         "type": "image-content",
         "blocks": {
+          "1596767433147": {
+            "type": "image_block",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/6C0CF736-9E6C-48D9-ADB6-AE02DFD3A1DD.jpeg"
+            }
+          },
           "1572989278840": {
             "type": "image_block",
             "settings": {
               "image": "shopify:\/\/shop_images\/86195B38-9DFA-4CAD-9722-142308A47DB1.jpeg"
-            }
-          },
-          "1596767433147": {
-            "type": "image_block",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/image0_6.jpeg"
             }
           },
           "1596818166204": {
