@@ -112,31 +112,10 @@
             "settings": {
               "image": "shopify:\/\/shop_images\/8C5D13D1-239B-4891-9D91-40941803AF48.jpeg"
             }
-          },
-          "1572989278840": {
-            "type": "image_block",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/amazon-primary_CB0zril.original.png"
-            }
-          },
-          "1596818166204": {
-            "type": "image_block",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/amazon-appstore-badge-english-black.png"
-            }
-          },
-          "1596929648341": {
-            "type": "image_block",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/amazon_alexa_logo_RGB.png"
-            }
           }
         },
         "block_order": [
-          "1596767433147",
-          "1572989278840",
-          "1596818166204",
-          "1596929648341"
+          "1596767433147"
         ],
         "settings": {
         }
