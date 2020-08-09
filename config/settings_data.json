@@ -56,21 +56,6 @@
     "sections": {
       "slideshow": {
         "type": "slideshow",
-        "blocks": {
-          "1596465367659": {
-            "type": "slide",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/mockup-b10d29e6_720x_1357bd87-f671-45f0-a012-3f2a66635969.jpg",
-              "image_position": "center center",
-              "title": "Luke outdoors USA Snapback Hat",
-              "button_label": "View all products",
-              "button_link": "https:\/\/www.lukeoutdoors.com\/collections\/outdoors-bulk-supply\/products\/luke-outdoors-usa-snapback-hat"
-            }
-          }
-        },
-        "block_order": [
-          "1596465367659"
-        ],
         "settings": {
           "hero_home_height": "small",
           "hero_home_auto": true,
@@ -90,8 +75,8 @@
           "1572419246886": {
             "type": "text",
             "settings": {
-              "title": "Design your own shirts..",
-              "text": "<p>🇺🇸<\/p>"
+              "title": "Luke outdoors Aqua Supply",
+              "text": "<p><a href=\"https:\/\/aquagrow.myshopify.com\/\">https:\/\/aquagrow.myshopify.com\/<\/a>&nbsp;<\/p>"
             }
           },
           "1572419910791": {
@@ -184,40 +169,6 @@
           "product_sorting_enable": false
         }
       },
-      "1572986405777": {
-        "type": "gallery",
-        "blocks": {
-          "1572986405777-0": {
-            "type": "image_block",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/00D5AEAD-6667-444C-A198-DE84C1EF2F6A.jpeg",
-              "image_align": "top center"
-            }
-          },
-          "1572986405777-1": {
-            "type": "image_block",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/friends-backpacking-together.jpg",
-              "image_align": "center center"
-            }
-          },
-          "1572986405777-2": {
-            "type": "image_block",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/fun-at-carnival.jpg",
-              "image_align": "bottom center"
-            }
-          }
-        },
-        "block_order": [
-          "1572986405777-0",
-          "1572986405777-1",
-          "1572986405777-2"
-        ],
-        "settings": {
-          "gallery_height": "short"
-        }
-      },
       "cart-template": {
         "type": "cart-template",
         "settings": {
@@ -252,8 +203,7 @@
     },
     "content_for_index": [
       "1584398160842",
-      "image-content",
-      "1572986405777"
+      "image-content"
     ]
   },
   "presets": {
